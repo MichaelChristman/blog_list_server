@@ -6,8 +6,8 @@ POST http://localhost:3003/api/blogs/ HTTP/1.1
 content-type: application/json
 
 {
-       "title": "Another blog",
+       "title": "Blogeth The Third",
        "author": "Michael Christman",
-       "url": "youtube.com",
-       "likes": 15
+       "url": "google.com",
+       "likes": 25
 }
